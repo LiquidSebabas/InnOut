@@ -1,6 +1,6 @@
-#Node.js y Firebase
+# Node.js y Firebase
 
-#Instalacion
+# Instalacion
 
 ```shell
 npm install
